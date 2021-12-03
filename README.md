@@ -18,6 +18,6 @@ I have worked in hospitality & administration until I decided to study software 
 
 ### These are my Stats
 
-![Piero's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Piero's GitHub stats](https://github-readme-stats.vercel.app/api?username=PieroVicenti&show_icons=true&theme=dark)
 
 
