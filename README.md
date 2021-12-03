@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi there, I'm Piero 👋
 
-<!--
-**PieroVicenti/PieroVicenti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Originally  🇮🇹 and IT 💻 passionate 
 
-Here are some ideas to get you started:
+Self-taught full-stack developer with a passion for new technologies, problem solving and foreign languages 🇬🇧 🇫🇷 🇷🇺 🇪🇸
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Back in 2018 I decided to move to Manchester (UK).
+I have worked in hospitality & administration until I decided to study software development and finally making my passion for IT an everyday challange.
+
+
+## Skills
+
+
+
+
+
+
+
+### These are my Stats
+
+![Piero's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+
