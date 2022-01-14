@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Piero Vicenti</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pierovicenti&label=Profile%20views&color=0e75b6&style=flat" alt="pierovicenti" /> </p>
 
 <h3 align="center">Originally 🇮🇹 and IT 💻 passionate </h3>
 <br>
