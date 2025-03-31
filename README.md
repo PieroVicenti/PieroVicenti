@@ -10,11 +10,6 @@
  I have worked in hospitality & administration until I decided to study software & web development and finally making my passion for IT an everyday challange.</p>
 
 
-
-- 👨‍💻 All of my projects are available at [www.pierovicenti.com](www.pierovicenti.com)
-
-- 📫 How to reach me **info@pierovicenti.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://uk.linkedin.com/in/piero-vicenti-a72a79122" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt=""https://linkedin.com/in/https://www.linkedin.com/in/piero-vicenti-a72a79122/"" height="30" width="40" /></a>
