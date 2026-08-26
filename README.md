@@ -11,9 +11,9 @@
 </p>
 
 <p>
-  I'm a full-stack developer passionate about technology, problem solving, and creating useful digital products.
-  <br><br>
-  Originally from Italy 🇮🇹, I've been living and working in the UK 🇬🇧 since 2018.
-  <br>
-  I enjoy exploring new technologies, turning ideas into reality, and continuously improving my skills.
+I'm a full-stack developer passionate about technology, problem solving, and creating useful digital products.
+<br><br>
+Originally from Italy 🇮🇹, I've been living and working in the UK 🇬🇧 since 2018.
+<br>
+I enjoy exploring new technologies, turning ideas into reality, and continuously improving my skills.
 </p>
